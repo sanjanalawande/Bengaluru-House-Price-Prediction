@@ -4,4 +4,12 @@ A real-estate price prediction project for the city of Bengaluru, India.
 
 
 
-In this project I have used the Kaggle Dataset - Bengaluru House Prices 
+In this project I have used the Kaggle Dataset - Bengaluru House Prices
+
+
+Algorithms used - 
+* Linear Regression 
+* Lasso Regression
+* Decision Trees
+
+
