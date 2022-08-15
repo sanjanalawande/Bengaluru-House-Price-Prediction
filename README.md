@@ -13,7 +13,7 @@ Technologies and Tools used -
 * Sklearn for Model Building
 * Jupyter Notebook, Pycharm as IDE 
 * Python Flask for http server  
-* HTML/css/JavaScript for UI 
+* HTML/CSS/JavaScript for UI 
 
 
 Algorithms used - 
